@@ -1,0 +1,9 @@
+# Ignore folders
+/Data/
+/DataGeneration/
+
+# Ignore files
+ExampleDataIsingMajoranaChain.hdf5
+ExamplePartialDataIsingMajoranaChain.hdf5
+SingleIterationExampleData.hdf5
+.DS_Store
